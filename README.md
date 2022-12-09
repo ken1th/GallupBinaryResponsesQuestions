@@ -1,5 +1,5 @@
 # GallupBinaryResponsesQuestions
-It contains all the Gallup questions with binary responses (e.g. Yes/No, Support/Not Support, Agree/Disagree, Satisfied/Dissatisfied, etc.).
+It contains all the Gallup World Poll questions with binary responses (e.g. Yes/No, Support/Not Support, Agree/Disagree, Satisfied/Dissatisfied, etc.).
 
 This is the code for getting the table if you have the raw Gallup data(imported as `gallupExt` here):
 ```
